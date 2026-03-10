@@ -24,7 +24,7 @@ These commands can be used for tasks such as:
 ## Screenshots
 ![Screenshot](screenshot.png)
 
-## Installation
+## Compilation
 
 ### Requirements
 - CMake 3.31+
@@ -39,3 +39,6 @@ cd out
 cmake ..
 make
 ```
+
+## Setup
+Please follow the [Wiki](https://github.com/timurg24/externalterminal/wiki)
