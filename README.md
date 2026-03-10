@@ -41,4 +41,4 @@ make
 ```
 
 ## Setup
-Please follow the [Wiki](https://github.com/timurg24/externalterminal/wiki)
+Please follow the [Wiki](https://github.com/timurg24/externalterminal/wiki).
